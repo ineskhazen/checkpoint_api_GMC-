@@ -1,0 +1,15 @@
+.icon{
+    display:flex;
+    justify-content: space-around;
+    border: solid;
+    background-color:cornflowerblue;
+   
+}
+.contact h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+.adresse h2{
+    text-align: center;
+    font-size: xx-large;
+}

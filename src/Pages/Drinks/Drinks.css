@@ -1,0 +1,13 @@
+
+ .drinks-list {
+     margin-left: 2%;
+     margin-right: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+     gap: 10px 2em;
+ 
+  
+  } 
+  
+   
+  

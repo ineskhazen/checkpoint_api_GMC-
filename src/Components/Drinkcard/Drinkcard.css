@@ -1,0 +1,16 @@
+.drink-card:hover{
+background-color:khaki;
+
+}
+.titlecard{
+    color: blue;
+    text-align: center;
+  background-color:burlywood;
+ 
+}
+.btn{
+display: flex;
+justify-content: center;
+font-weight: bold;
+background-color: yellow;
+}

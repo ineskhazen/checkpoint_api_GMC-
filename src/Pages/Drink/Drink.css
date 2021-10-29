@@ -1,0 +1,39 @@
+.détail_drink{
+  display: flex;
+  flex-direction: column;  
+}
+.title{
+  text-align: center;
+  text-decoration: underline;
+  color: brown;
+  background-color: yellow;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.information{
+  text-align: center;
+}
+.im{
+ margin-left: 30%;
+ margin-right: 30%;
+}
+.type{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.info{
+  display: flex;
+}
+.info h2{
+margin-left: 30%;
+font-size: 20px;
+}
+
+.btn1{
+  margin-left: 50%;
+  margin-bottom: 2%;
+  background-color: yellow;
+}
+
+

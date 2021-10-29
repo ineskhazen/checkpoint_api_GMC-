@@ -1,0 +1,34 @@
+.Navbarc{
+
+    background-color: cornflowerblue;
+    border: solid;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 30%;
+    display: flex;
+    
+}
+
+.logo a{
+font-size:xx-large;
+font-weight: bold;
+text-decoration: none;
+color: black;
+
+}
+.liste{
+    margin-top: 2%;
+    width: 40%;
+    display: flex;
+    justify-content: space-around; 
+   font-size: x-large;
+   font-weight: bold;   
+}
+.liste a{
+    text-decoration: none;
+    color:black;
+}
+
+
